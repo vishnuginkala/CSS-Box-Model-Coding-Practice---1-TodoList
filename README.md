@@ -1,10 +1,7 @@
 TodoList
 
 Todolist
-Solved
-Easy
 
-Helpful
 In this assignment, let's build a Todolist by applying the concepts we learned till now.
 
 
